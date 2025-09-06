@@ -1,5 +1,5 @@
 # FastAutoAudioStrip-Name_Desktop
-# アプリのダウンロードにはFastAutoStripName.tarをダウンロードしてください
+# アプリのダウンロードにはFastAutoStripName.zipをダウンロードしてください
 # 「.exeファイルをふくため、アンチウイルスの警告が表示される可能性があります。.exe内容に問題はありませんので、適宜、解凍・起動の例外処理をお願いします。」
 Windows10/11用デスクトップアプリ：自動音声切り出し＆ファイル名付与ツールを作成しました
 
