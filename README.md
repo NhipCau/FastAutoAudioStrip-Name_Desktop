@@ -1,5 +1,5 @@
 # FastAutoAudioStrip-Name_Desktop
- 
+# アプリのダウンロードにはFastAutoStripName.tarをダウンどーどしてください
 Windows10/11用デスクトップアプリ：自動音声切り出し＆ファイル名付与ツールを作成しました
 
 アプリ機能は
