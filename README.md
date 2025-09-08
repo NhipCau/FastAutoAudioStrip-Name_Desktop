@@ -8,7 +8,7 @@
 
 # 使い方は簡単
 # 1.ProTools等のDAWでOKリージョンを並べる（この際、リージョン間の間隔を一定にしてください。ms単位可）
- 例[リージョンA Head～リージョンA End][1.5秒gap][リージョンB Head～リージョンB End][1.5秒gap][リージョンC Head～リージョンC End][1.5秒gap]
+例[リージョンA Head～リージョンA End][1.5秒gap][リージョンB Head～リージョンB End][1.5秒gap][リージョンC Head～リージョンC End][1.5秒gap]
 
 # 2.DAWでOKリージョンを並べたトラックをバウンス（.WAV)
 
